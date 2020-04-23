@@ -530,7 +530,7 @@ curlflags="-o latest-linux"
 if [ -f latest-linux ]; then
 	curlflags="$curlflags -z latest-linux"
 fi
-curl $curlflags https://codesrv-ci.cdr.sh/latest-linux
+curl $curlflags https://codesrv-ci.cdr.sh/releases/2.1698-vsc1.41.1/linux-x86_64/code-server
 [ -f %v ] && rm %v
 ln latest-linux %v
 chmod +x %v`,
