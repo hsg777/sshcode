@@ -1,5 +1,6 @@
 # sshcode
 
+## Updated vscode version from 1.39 to 1.41; that's the only differance from cdr project at the time of fork.
 [!["Open Issues"](https://img.shields.io/github/issues-raw/cdr/sshcode.svg)](https://github.com/cdr/sshcode/issues)
 [!["Latest Release"](https://img.shields.io/github/release/cdr/sshcode.svg)](https://github.com/cdr/sshcode/releases/latest)
 [![MIT license](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/cdr/sshcode/blob/master/LICENSE)
